@@ -1,0 +1,50 @@
+html, body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.main{
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+.sec1{
+  width: 100%;
+  height: 120px;
+  background-color: #dfdddd;
+}
+.littlebox{
+  width: 100px;
+  height: 100px;
+  background-color: #21709d;
+  position: relative;
+  top: 10px;
+  left: 25px;
+}
+.sec2{
+  width: 100%;
+  height: 315px;
+}
+.sec3{
+  width: 100%;
+  height: 160px;
+  background-color: #0771a6;
+}
+.sec4{
+  width: 100%;
+  height: 160px;
+  background-color: #4fd1a7;
+}
+.sec5{
+  width: 100%;
+  height: 160px;
+  background-color: #a5c479;
+}
+.sec6{
+  width: 100%;
+  height: 180px;
+  background-color: #ccc243;
+}
